@@ -2,7 +2,9 @@ APClips
 Archive.org
 GNOME VCS
 Giphy
+LiveJournal
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
