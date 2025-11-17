@@ -1,9 +1,12 @@
 APClips
 Archive.org
+Coders Rank
 DeviantArt
+Eintracht Frankfurt Forum
 GNOME VCS
 Giphy
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
@@ -11,8 +14,6 @@ Splice
 Spotify
 Trovo
 Weblate
+Wordnik
 YandexMusic
-opennet
-phpRU
 svidbook
-xHamster
