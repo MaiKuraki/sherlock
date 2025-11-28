@@ -3,16 +3,19 @@ Archive.org
 Coders Rank
 DeviantArt
 GNOME VCS
+GeeksforGeeks
 Giphy
 LushStories
-Minecraft
 PocketStars
 Reddit
 RocketTube
+Slack
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
+hunting
 opennet
 svidbook
+threads
