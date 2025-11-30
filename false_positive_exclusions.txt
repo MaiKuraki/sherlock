@@ -1,6 +1,5 @@
 APClips
 Archive.org
-CGTrader
 Coders Rank
 GNOME VCS
 GeeksforGeeks
