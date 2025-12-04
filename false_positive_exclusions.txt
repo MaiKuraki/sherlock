@@ -1,7 +1,7 @@
 APClips
 Archive.org
-Coders Rank
-DeviantArt
+Code Snippet Wiki
+GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
@@ -13,7 +13,6 @@ Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
 opennet
