@@ -6,9 +6,13 @@ GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LushStories
 PocketStars
 Reddit
 RocketTube
+RuneScape
+Scribd
+Slack
 SlideShare
 Splice
 Spotify
@@ -16,3 +20,5 @@ Weblate
 YandexMusic
 opennet
 svidbook
+threads
+xHamster
