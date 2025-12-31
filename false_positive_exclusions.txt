@@ -1,25 +1,26 @@
 APClips
 Archive.org
-Audiojungle
+BoardGameGeek
+Chess
 Code Snippet Wiki
-DeviantArt
 Fandom
-Freelancer
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
 LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Scribd
 SlideShare
+SpeakerDeck
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
+mercadolivre
 opennet
 phpRU
 svidbook
