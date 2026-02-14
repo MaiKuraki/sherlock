@@ -1,13 +1,12 @@
 APClips
 Archive.org
+Chess
 Code Snippet Wiki
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
-LushStories
-Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -19,10 +18,8 @@ Splice
 Spotify
 TryHackMe
 Weblate
-Wordnik
 YandexMusic
 mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
