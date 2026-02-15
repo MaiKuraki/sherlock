@@ -1,12 +1,15 @@
 APClips
 Archive.org
-Chess
 Code Snippet Wiki
+Cracked Forum
+Cults3D
 Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+LushStories
+OurDJTalk
 PocketStars
 Realmeye
 Reddit
@@ -23,3 +26,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
