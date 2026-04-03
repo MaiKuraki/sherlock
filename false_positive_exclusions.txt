@@ -1,6 +1,7 @@
 7Cups
 APClips
 Archive.org
+Blogger
 Codolio
 Discord.bio
 GeeksforGeeks
@@ -8,8 +9,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-LiveJournal
-Minecraft
+LushStories
 Patched
 PocketStars
 Pornhub
