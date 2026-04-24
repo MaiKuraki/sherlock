@@ -4,11 +4,14 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
+DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
+LiveJournal
 LushStories
 Minecraft
 Patched
@@ -19,11 +22,11 @@ Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Weblate
 YandexMusic
@@ -33,3 +36,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
