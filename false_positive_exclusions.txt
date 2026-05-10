@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -14,11 +12,11 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
 LushStories
 Motherless
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
