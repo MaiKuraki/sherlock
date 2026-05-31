@@ -5,12 +5,12 @@ Apple Discussions
 Archive.org
 Bandcamp
 Codolio
-Cults3D
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
+HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -21,13 +21,14 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
 Smule
 Splice
 Spotify
-Tenor
+Trovo
 TryHackMe
 Velomania
 Weblate
