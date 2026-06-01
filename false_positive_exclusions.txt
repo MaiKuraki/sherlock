@@ -10,7 +10,6 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Hubski
 LessWrong
@@ -28,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+TETR.IO
 Trovo
 TryHackMe
 Velomania
@@ -41,4 +41,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
