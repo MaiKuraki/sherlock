@@ -13,7 +13,6 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-NICommunityForum
 Patched
 Pornhub
 Rarible
@@ -36,4 +35,6 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
+xHamster
