@@ -16,6 +16,7 @@ Houzz
 Hubski
 LessWrong
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -29,10 +30,8 @@ SlideShare
 Splice
 Spotify
 Star Citizen
-Trovo
 TryHackMe
 Velomania
-Vero
 Weblate
 YandexMusic
 authorSTREAM
