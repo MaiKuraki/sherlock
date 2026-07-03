@@ -16,8 +16,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -41,6 +42,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
