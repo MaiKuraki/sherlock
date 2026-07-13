@@ -5,8 +5,12 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
+BoardGameGeek
 BreachSta.rs Forum
 Codolio
+Crevado
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -29,7 +33,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
+Strava
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -42,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
