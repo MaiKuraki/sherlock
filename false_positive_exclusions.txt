@@ -12,11 +12,11 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 LessWrong
+Linktree
 Odysee
 PCGamer
 Patched
