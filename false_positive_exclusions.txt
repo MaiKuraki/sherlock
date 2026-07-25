@@ -13,10 +13,11 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -27,9 +28,9 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
