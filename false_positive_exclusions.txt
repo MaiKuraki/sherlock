@@ -5,12 +5,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
-Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -19,7 +18,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -49,4 +47,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
