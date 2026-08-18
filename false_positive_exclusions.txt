@@ -14,13 +14,11 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 Odysee
-Outgress
 PCGamer
 Patched
 Pornhub
@@ -41,6 +39,7 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+fixya
 hunting
 igromania
 interpals
@@ -48,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
