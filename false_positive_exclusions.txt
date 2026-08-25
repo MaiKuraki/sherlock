@@ -9,6 +9,7 @@ Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -32,7 +33,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 Trovo
 TryHackMe
 Velomania
