@@ -9,6 +9,7 @@ CGTrader
 Championat
 Chatujme.cz
 ChaturBate
+Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -34,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
