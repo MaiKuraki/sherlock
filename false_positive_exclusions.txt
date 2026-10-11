@@ -6,6 +6,7 @@ Archive.org
 Bandcamp
 Blogger
 CGTrader
+Carbonmade
 Championat
 Chatujme.cz
 Codolio
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -45,7 +45,6 @@ authorSTREAM
 dailykos
 fixya
 hunting
-igromania
 interpals
 mercadolivre
 opennet
