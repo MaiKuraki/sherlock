@@ -4,6 +4,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -21,6 +22,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -35,7 +37,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Status Cafe
 Trakt
 Trovo
 TryHackMe
