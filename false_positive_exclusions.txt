@@ -38,11 +38,9 @@ SlideShare
 Splice
 Spotify
 Trakt
-Trovo
 TryHackMe
 Velomania
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
@@ -54,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
