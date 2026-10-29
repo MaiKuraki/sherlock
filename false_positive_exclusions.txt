@@ -20,7 +20,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -44,9 +43,12 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
