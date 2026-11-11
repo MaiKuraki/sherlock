@@ -1,10 +1,14 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
+Carrd
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -31,7 +35,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
 Trakt
 TryHackMe
 Velomania
@@ -47,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
