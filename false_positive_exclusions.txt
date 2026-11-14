@@ -1,12 +1,15 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
+Contently
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,7 +20,6 @@ HackerNews
 Hashnode
 Houzz
 Hubski
-Ifunny
 Instapaper
 Linktree
 ObservableHQ
